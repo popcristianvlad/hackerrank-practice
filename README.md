@@ -8,6 +8,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
+|Implementation|Easy|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[AppleAndOrange.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/AppleAndOrange.java)|
 |Implementation|Hard|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)|[MatrixLayerRotation.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/MatrixLayerRotation.java)|
 
 ## Data Structures
