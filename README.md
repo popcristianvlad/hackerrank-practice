@@ -10,6 +10,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |:---------:|:----------:|:---------:|:--------:|
 |Implementation|Easy|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[AppleAndOrange.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/AppleAndOrange.java)|
 |Implementation|Easy|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|[NumberLineJumps.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/NumberLineJumps.java)|
+|Implementation|Easy|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|[DrawingBook.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/DrawingBook.java)|
 |Implementation|Hard|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)|[MatrixLayerRotation.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/MatrixLayerRotation.java)|
 
 ## Data Structures
