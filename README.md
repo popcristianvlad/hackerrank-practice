@@ -16,6 +16,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Implementation|Easy|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|[ElectronicsShop.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/ElectronicsShop.java)|
 |Implementation|Easy|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[HalloweenSale.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/HalloweenSale.java)|
 |Implementation|Medium|[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|[OrganizingContainersOfBalls.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/OrganizingContainersOfBalls.java)|
+|Implementation|Medium|[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|[Encryption.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/Encryption.java)|
 |Implementation|Hard|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)|[MatrixLayerRotation.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/MatrixLayerRotation.java)|
 
 ## Data Structures
