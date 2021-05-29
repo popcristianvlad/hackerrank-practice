@@ -20,6 +20,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Implementation|Medium|[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)|[TheBombermanGame.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/TheBombermanGame.java)|
 |Implementation|Hard|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)|[MatrixLayerRotation.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/MatrixLayerRotation.java)|
 |Strings|Medium|[Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)|[HighestValuePalindrome.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/strings/HighestValuePalindrome.java)|
+|Graph Theory|Hard|[Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem)|[FloydCityOfBlindingLights.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/graph/theory/FloydCityOfBlindingLights.java)|
 
 ## Data Structures
 
