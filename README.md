@@ -4,11 +4,11 @@
 
 Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 
-
 ## Algorithms
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
+|Implementation|Hard|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)|[MatrixLayerRotation.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/MatrixLayerRotation.java)|
 
 ## Data Structures
 
