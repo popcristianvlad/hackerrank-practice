@@ -17,6 +17,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Implementation|Easy|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[HalloweenSale.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/HalloweenSale.java)|
 |Implementation|Medium|[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|[OrganizingContainersOfBalls.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/OrganizingContainersOfBalls.java)|
 |Implementation|Medium|[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|[Encryption.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/Encryption.java)|
+|Implementation|Medium|[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)|[TheBombermanGame.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/TheBombermanGame.java)|
 |Implementation|Hard|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)|[MatrixLayerRotation.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/MatrixLayerRotation.java)|
 |Strings|Medium|[Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)|[HighestValuePalindrome.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/strings/HighestValuePalindrome.java)|
 
