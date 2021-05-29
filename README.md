@@ -26,6 +26,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Implementation|Hard|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)|[MatrixLayerRotation.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/MatrixLayerRotation.java)|
 |Strings|Easy|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|[StrongPassword.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/strings/StrongPassword.java)|
 |Strings|Medium|[Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)|[HighestValuePalindrome.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/strings/HighestValuePalindrome.java)|
+|Graph Theory|Medium|[Even Tree](https://www.hackerrank.com/challenges/even-tree/problem)|[EvenTree.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/graph/theory/EvenTree.java)|
 |Graph Theory|Hard|[Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem)|[FloydCityOfBlindingLights.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/graph/theory/FloydCityOfBlindingLights.java)|
 |Sorting|Easy|[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)|[BigSorting.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/sorting/BigSorting.java)|
 
