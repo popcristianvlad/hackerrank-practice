@@ -12,6 +12,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Implementation|Easy|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|[NumberLineJumps.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/NumberLineJumps.java)|
 |Implementation|Easy|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|[DrawingBook.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/DrawingBook.java)|
 |Implementation|Easy|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[BreakingTheRecords.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/BreakingTheRecords.java)|
+|Implementation|Easy|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)|[CountingValleys.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/CountingValleys.java)|
 |Implementation|Hard|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)|[MatrixLayerRotation.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/MatrixLayerRotation.java)|
 
 ## Data Structures
