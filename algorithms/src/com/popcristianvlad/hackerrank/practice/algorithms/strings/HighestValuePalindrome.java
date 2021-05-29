@@ -73,10 +73,6 @@ public class HighestValuePalindrome {
     }
 
     public static void main(String[] args) {
-        main_hardcodedValues();
-    }
-
-    private static void main_hardcodedValues() {
         System.out.println("3943->" + highestValuePalindrome("3943", 4, 1).equals("3993"));
         System.out.println("092282->" + highestValuePalindrome("092282", 6, 3).equals("992299"));
         System.out.println("0011->" + highestValuePalindrome("0011", 4, 1).equals("-1"));
