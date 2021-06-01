@@ -50,6 +50,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 | Subcategory | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
 |Introduction|Easy|[Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)|[WelcomeToJava.java](java/src/com/popcristianvlad/hackerrank/practice/java/introduction/WelcomeToJava.java)|
+|Introduction|Easy|[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)|[JavaStdinAndStdoutI.java](java/src/com/popcristianvlad/hackerrank/practice/java/introduction/JavaStdinAndStdoutI.java)|
 |Strings|Easy|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[JavaStringsIntroduction.java](java/src/com/popcristianvlad/hackerrank/practice/java/strings/JavaStringsIntroduction.java)|
 |Strings|Easy|[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)|[JavaSubstring.java](java/src/com/popcristianvlad/hackerrank/practice/java/strings/JavaSubstring.java)|
 |Strings|Easy|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[JavaStringReverse.java](java/src/com/popcristianvlad/hackerrank/practice/java/strings/JavaStringReverse.java)|
