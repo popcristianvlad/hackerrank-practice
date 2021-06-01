@@ -83,6 +83,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 
 | Subcategory | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
+|Conditionals and Loops|Easy|[Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem)|[sum-of-digits-of-a-five-digit-number.c](c/src/com/popcristianvlad/hackerrank/practice/c/conditionals/and/loops/sum-of-digits-of-a-five-digit-number.c)|
 
 ## Python
 
