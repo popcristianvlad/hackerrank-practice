@@ -36,6 +36,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |:---------:|:----------:|:---------:|:--------:|
 |Arrays|Easy|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|[arrays-ds.cpp](data-structures/src/com/popcristianvlad/hackerrank/practice/data/structures/arrays/arrays-ds.cpp)|
 |Trees|Easy|[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|[tree-preorder-traversal.cpp](data-structures/src/com/popcristianvlad/hackerrank/practice/data/structures/trees/tree-preorder-traversal.cpp)|
+|Trees|Easy|[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|[tree-postorder-traversal.cpp](data-structures/src/com/popcristianvlad/hackerrank/practice/data/structures/trees/tree-postorder-traversal.cpp)|
 
 ## Java
 
