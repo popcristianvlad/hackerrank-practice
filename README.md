@@ -98,6 +98,10 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Bash|Easy|[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)|[looping-and-skipping.sh](linux-shell/src/com/popcristianvlad/hackerrank/practice/linux/shell/bash/looping-and-skipping.sh)|
 |Bash|Easy|[A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)|[a-personalized-echo.sh](linux-shell/src/com/popcristianvlad/hackerrank/practice/linux/shell/bash/a-personalized-echo.sh)|
 |Bash|Easy|[Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)|[looping-with-numbers.sh](linux-shell/src/com/popcristianvlad/hackerrank/practice/linux/shell/bash/looping-with-numbers.sh)|
+|Bash|Easy|[The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)|[the-world-of-numbers.sh](linux-shell/src/com/popcristianvlad/hackerrank/practice/linux/shell/bash/the-world-of-numbers.sh)|
+|Bash|Easy|[Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem)|[comparing-numbers.sh](linux-shell/src/com/popcristianvlad/hackerrank/practice/linux/shell/bash/comparing-numbers.sh)|
+|Bash|Easy|[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem)|[getting-started-with-conditionals.sh](linux-shell/src/com/popcristianvlad/hackerrank/practice/linux/shell/bash/getting-started-with-conditionals.sh)|
+|Bash|Easy|[More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem)|[more-on-conditionals.sh](linux-shell/src/com/popcristianvlad/hackerrank/practice/linux/shell/bash/more-on-conditionals.sh)|
 
 ## Databases
 
