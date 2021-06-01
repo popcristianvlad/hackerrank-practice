@@ -145,6 +145,11 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Basic Select|Easy|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|[higher-than-75-marks.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/higher-than-75-marks.sql)|
 |Basic Select|Easy|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|[employee-names.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/employee-names.sql)|
 |Basic Select|Easy|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[employee-salaries.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/employee-salaries.sql)|
+|Aggregation|Easy|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)|[weather-observation-station-2.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/aggregation/weather-observation-station-2.sql)|
+|Aggregation|Easy|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)|[weather-observation-station-13.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/aggregation/weather-observation-station-13.sql)|
+|Aggregation|Easy|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)|[weather-observation-station-14.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/aggregation/weather-observation-station-14.sql)|
+|Aggregation|Easy|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)|[weather-observation-station-15.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/aggregation/weather-observation-station-15.sql)|
+|Aggregation|Easy|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|[weather-observation-station-16.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/aggregation/weather-observation-station-16.sql)|
 
 ## Regex
 
