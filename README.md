@@ -96,6 +96,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |:---------:|:----------:|:---------:|:--------:|
 |Bash|Easy|[Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)|[let-s-echo.sh](linux-shell/src/com/popcristianvlad/hackerrank/practice/linux/shell/bash/let-s-echo.sh)|
 |Bash|Easy|[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)|[looping-and-skipping.sh](linux-shell/src/com/popcristianvlad/hackerrank/practice/linux/shell/bash/looping-and-skipping.sh)|
+|Bash|Easy|[A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)|[a-personalized-echo.sh](linux-shell/src/com/popcristianvlad/hackerrank/practice/linux/shell/bash/a-personalized-echo.sh)|
 
 ## Databases
 
