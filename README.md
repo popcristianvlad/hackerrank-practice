@@ -38,6 +38,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Trees|Easy|[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|[tree-preorder-traversal.cpp](data-structures/src/com/popcristianvlad/hackerrank/practice/data/structures/trees/tree-preorder-traversal.cpp)|
 |Trees|Easy|[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|[tree-postorder-traversal.cpp](data-structures/src/com/popcristianvlad/hackerrank/practice/data/structures/trees/tree-postorder-traversal.cpp)|
 |Trees|Easy|[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)|[tree-inorder-traversal.cpp](data-structures/src/com/popcristianvlad/hackerrank/practice/data/structures/trees/tree-inorder-traversal.cpp)|
+|Trees|Easy|[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)|[tree-height-of-a-binary-tree.cpp](data-structures/src/com/popcristianvlad/hackerrank/practice/data/structures/trees/tree-height-of-a-binary-tree.cpp)|
 
 ## Java
 
