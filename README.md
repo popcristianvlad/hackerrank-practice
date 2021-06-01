@@ -57,6 +57,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Introduction|Easy|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)|[JavaLoopsI.java](java/src/com/popcristianvlad/hackerrank/practice/java/introduction/JavaLoopsI.java)|
 |Introduction|Easy|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)|[JavaLoopsII.java](java/src/com/popcristianvlad/hackerrank/practice/java/introduction/JavaLoopsII.java)|
 |Introduction|Easy|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)|[JavaDatatypes.java](java/src/com/popcristianvlad/hackerrank/practice/java/introduction/JavaDatatypes.java)|
+|Introduction|Easy|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)|[JavaEndOfFile.java](java/src/com/popcristianvlad/hackerrank/practice/java/introduction/JavaEndOfFile.java)|
 |Strings|Easy|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[JavaStringsIntroduction.java](java/src/com/popcristianvlad/hackerrank/practice/java/strings/JavaStringsIntroduction.java)|
 |Strings|Easy|[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)|[JavaSubstring.java](java/src/com/popcristianvlad/hackerrank/practice/java/strings/JavaSubstring.java)|
 |Strings|Easy|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[JavaStringReverse.java](java/src/com/popcristianvlad/hackerrank/practice/java/strings/JavaStringReverse.java)|
