@@ -94,6 +94,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 
 | Subcategory | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
+|Bash|Easy|[Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)|[let-s-echo.sh](linux-shell/src/com/popcristianvlad/hackerrank/practice/linux/shell/bash/let-s-echo.sh)|
 
 ## Databases
 
