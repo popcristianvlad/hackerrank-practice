@@ -50,6 +50,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 | Subcategory | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
 |Strings|Easy|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|[JavaStringsIntroduction.java](java/src/com/popcristianvlad/hackerrank/practice/java/strings/JavaStringsIntroduction.java)|
+|Strings|Easy|[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)|[JavaSubstring.java](java/src/com/popcristianvlad/hackerrank/practice/java/strings/JavaSubstring.java)|
 |Object Oriented Programming|Easy|[Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem)|[JavaInheritanceI.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaInheritanceI.java)|
 |Object Oriented Programming|Easy|[Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem)|[JavaInheritanceII.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaInheritanceII.java)|
 |Object Oriented Programming|Easy|[Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem)|[JavaAbstractClass.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaAbstractClass.java)|
