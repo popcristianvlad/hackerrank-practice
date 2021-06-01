@@ -51,6 +51,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |:---------:|:----------:|:---------:|:--------:|
 |Object Oriented Programming|Easy|[Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem)|[JavaInheritanceI.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaInheritanceI.java)|
 |Object Oriented Programming|Easy|[Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem)|[JavaInheritanceII.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaInheritanceII.java)|
+|Object Oriented Programming|Easy|[Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem)|[JavaAbstractClass.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaAbstractClass.java)|
 
 ## C
 
