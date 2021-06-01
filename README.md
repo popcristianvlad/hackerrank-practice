@@ -57,6 +57,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Object Oriented Programming|Easy|[Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem)|[JavaMethodOverriding2SuperKeyword.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaMethodOverriding2SuperKeyword.java)|
 |Object Oriented Programming|Easy|[Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem)|[JavaInstanceofKeyword.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaInstanceofKeyword.java)|
 |Object Oriented Programming|Easy|[Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem)|[JavaIterator.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaIterator.java)|
+|Data Structures|Easy|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)|[Java1DArray.java](java/src/com/popcristianvlad/hackerrank/practice/java/data/structures/Java1DArray.java)|
 
 ## C
 
