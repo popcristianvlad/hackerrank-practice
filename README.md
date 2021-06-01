@@ -58,6 +58,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Object Oriented Programming|Easy|[Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem)|[JavaInstanceofKeyword.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaInstanceofKeyword.java)|
 |Object Oriented Programming|Easy|[Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem)|[JavaIterator.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaIterator.java)|
 |Data Structures|Easy|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)|[Java1DArray.java](java/src/com/popcristianvlad/hackerrank/practice/java/data/structures/Java1DArray.java)|
+|Exception Handling|Easy|[Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)|[JavaExceptionHandlingTryCatch.java](java/src/com/popcristianvlad/hackerrank/practice/java/exception/handling/JavaExceptionHandlingTryCatch.java)|
 
 ## C
 
