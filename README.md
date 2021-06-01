@@ -171,6 +171,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 
 | Subcategory | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
+|Geometry|Easy|[Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game/problem)|[rectangular-game.c](mathematics/src/com/popcristianvlad/hackerrank/practice/mathematics/geometry/rectangular-game.c)|
 
 ## Tutorials
 
