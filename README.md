@@ -171,3 +171,9 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 
 | Subcategory | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
+
+## Tutorials
+
+| Subcategory | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|30 Days of Code|Easy|[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)|[day-0-hello-world.cpp](tutorials/src/com/popcristianvlad/hackerrank/practice/_30/days/of/code/day-0-hello-world.cpp)|
