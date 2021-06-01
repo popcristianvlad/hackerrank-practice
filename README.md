@@ -125,6 +125,26 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 
 | Subcategory | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
+|Basic Select|Easy|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[revising-the-select-query-I.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/revising-the-select-query-I.sql)|
+|Basic Select|Easy|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|[revising-the-select-query-II.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/revising-the-select-query-II.sql)|
+|Basic Select|Easy|[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)|[select-all.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/select-all.sql)|
+|Basic Select|Easy|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)|[select-by-id.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/select-by-id.sql)|
+|Basic Select|Easy|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)|[japanese-cities-attributes.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/japanese-cities-attributes.sql)|
+|Basic Select|Easy|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|[japanese-cities-names.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/japanese-cities-names.sql)|
+|Basic Select|Easy|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|[weather-observation-station-1.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/weather-observation-station-1.sql)|
+|Basic Select|Easy|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|[weather-observation-station-3.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/weather-observation-station-3.sql)|
+|Basic Select|Easy|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|[weather-observation-station-4.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/weather-observation-station-4.sql)|
+|Basic Select|Easy|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|[weather-observation-station-5.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/weather-observation-station-5.sql)|
+|Basic Select|Easy|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|[weather-observation-station-6.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/weather-observation-station-6.sql)|
+|Basic Select|Easy|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|[weather-observation-station-7.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/weather-observation-station-7.sql)|
+|Basic Select|Easy|[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)|[weather-observation-station-8.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/weather-observation-station-8.sql)|
+|Basic Select|Easy|[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)|[weather-observation-station-9.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/weather-observation-station-9.sql)|
+|Basic Select|Easy|[Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)|[weather-observation-station-10.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/weather-observation-station-10.sql)|
+|Basic Select|Easy|[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem)|[weather-observation-station-11.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/weather-observation-station-11.sql)|
+|Basic Select|Easy|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)|[weather-observation-station-12.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/weather-observation-station-12.sql)|
+|Basic Select|Easy|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|[higher-than-75-marks.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/higher-than-75-marks.sql)|
+|Basic Select|Easy|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|[employee-names.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/employee-names.sql)|
+|Basic Select|Easy|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[employee-salaries.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/select/employee-salaries.sql)|
 
 ## Regex
 
