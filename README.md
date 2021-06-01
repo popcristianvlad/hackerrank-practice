@@ -8,6 +8,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 
 | Subcategory | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
+|Warmup|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[solve-me-first.c](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/warmup/solve-me-first.c)|
 |Implementation|Easy|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[AppleAndOrange.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/AppleAndOrange.java)|
 |Implementation|Easy|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|[NumberLineJumps.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/NumberLineJumps.java)|
 |Implementation|Easy|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|[DrawingBook.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/implementation/DrawingBook.java)|
