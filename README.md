@@ -49,6 +49,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 
 | Subcategory | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
+|Object Oriented Programming|Easy|[Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem)|[JavaInheritanceI.java](java/src/com/popcristianvlad/hackerrank/practice/java/object/oriented/programming/JavaInheritanceI.java)|
 
 ## C
 
