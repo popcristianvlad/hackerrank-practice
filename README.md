@@ -34,6 +34,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 
 | Subcategory | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
+|Arrays|Easy|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|[arrays-ds.cpp](data-structures/src/com/popcristianvlad/hackerrank/practice/data/structures/arrays/arrays-ds.cpp)|
 
 ## Java
 
