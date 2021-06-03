@@ -179,3 +179,9 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 | Subcategory | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
 |30 Days of Code|Easy|[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)|[day-0-hello-world.cpp](tutorials/src/com/popcristianvlad/hackerrank/practice/_30/days/of/code/day-0-hello-world.cpp)|
+|30 Days of Code|Easy|[Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)|[Day1DataTypes.java](tutorials/src/com/popcristianvlad/hackerrank/practice/_30/days/of/code/Day1DataTypes.java)|
+|30 Days of Code|Easy|[Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem)|[Day2Operators.java](tutorials/src/com/popcristianvlad/hackerrank/practice/_30/days/of/code/Day2Operators.java)|
+|30 Days of Code|Easy|[Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)|[Day3IntroToConditionalStatements.java](tutorials/src/com/popcristianvlad/hackerrank/practice/_30/days/of/code/Day3IntroToConditionalStatements.java)|
+|30 Days of Code|Easy|[Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)|[Day4ClassVsInstance.java](tutorials/src/com/popcristianvlad/hackerrank/practice/_30/days/of/code/Day4ClassVsInstance.java)|
+|30 Days of Code|Easy|[Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem)|[Day5Loops.java](tutorials/src/com/popcristianvlad/hackerrank/practice/_30/days/of/code/Day5Loops.java)|
+|30 Days of Code|Easy|[Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)|[Day6LetsReview.java](tutorials/src/com/popcristianvlad/hackerrank/practice/_30/days/of/code/Day6LetsReview.java)|
