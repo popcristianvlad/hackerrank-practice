@@ -35,6 +35,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Sorting|Easy|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[IntroToTutorialChallenges.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/sorting/IntroToTutorialChallenges.java)|
 |Sorting|Easy|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|[InsertionSortPart1.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/sorting/InsertionSortPart1.java)|
 |Sorting|Easy|[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)|[InsertionSortPart2.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/sorting/InsertionSortPart2.java)|
+|Sorting|Easy|[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|[CorrectnessAndTheLoopInvariant.java](algorithms/src/com/popcristianvlad/hackerrank/practice/algorithms/sorting/CorrectnessAndTheLoopInvariant.java)|
 
 ## Data Structures
 
