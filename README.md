@@ -168,9 +168,9 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 
 ## Artificial Intelligence
 
-|              Subcategory               | Difficulty |                                                    Challenge                                                     |                                                                                                     Solution                                                                                                      |
-|:--------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Probability & Statistics - Foundations |    Easy    | [Day 2: Basic Probability Puzzles #1](https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem) | [day-2-basic-probability-puzzles-1.txt](artificial-intelligence/src/com/popcristianvlad/hackerrank/practice/artificial/intelligence/probability/and/statistics/foundations/day-2-basic-probability-puzzles-1.txt) |
+|              Subcategory               | Difficulty |                                                    Challenge                                                     |                                                                                                                      Solution                                                                                                                       |
+|:--------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Probability & Statistics - Foundations |    Easy    | [Day 2: Basic Probability Puzzles #1](https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem) | [day-2-basic-probability-puzzles-1.txt](artificial-intelligence/src/com/popcristianvlad/hackerrank/practice/artificial/intelligence/probability-and-statistics-foundations/day-2-basic-probability-puzzles-1/day-2-basic-probability-puzzles-1.txt) |
 
 ## Functional Programming
 
