@@ -158,6 +158,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |Aggregation|Easy|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)|[weather-observation-station-14.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/aggregation/weather-observation-station-14.sql)|
 |Aggregation|Easy|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)|[weather-observation-station-15.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/aggregation/weather-observation-station-15.sql)|
 |Aggregation|Easy|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|[weather-observation-station-16.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/aggregation/weather-observation-station-16.sql)|
+|Basic Join|Easy|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|[african-cities.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/join/african-cities.sql)|
 
 ## Regex
 
