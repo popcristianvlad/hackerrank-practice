@@ -1,4 +1,4 @@
-package com.popcristianvlad.hackerrank.practice._10.days.of.statistics;
+package com.popcristianvlad.hackerrank.practice._10.days.of.statistics.day01;
 
 import java.io.*;
 import java.util.Arrays;

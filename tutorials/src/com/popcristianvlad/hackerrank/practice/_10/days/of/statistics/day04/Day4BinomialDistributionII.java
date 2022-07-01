@@ -1,4 +1,4 @@
-package com.popcristianvlad.hackerrank.practice._10.days.of.statistics;
+package com.popcristianvlad.hackerrank.practice._10.days.of.statistics.day04;
 
 import java.math.BigInteger;
 import java.text.DecimalFormat;
