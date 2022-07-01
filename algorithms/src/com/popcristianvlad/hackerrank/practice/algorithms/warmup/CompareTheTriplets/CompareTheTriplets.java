@@ -1,4 +1,4 @@
-package com.popcristianvlad.hackerrank.practice.algorithms.warmup;
+package com.popcristianvlad.hackerrank.practice.algorithms.warmup.CompareTheTriplets;
 
 import java.io.*;
 import java.util.*;
