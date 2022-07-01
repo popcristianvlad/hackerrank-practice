@@ -1,4 +1,4 @@
-package com.popcristianvlad.hackerrank.practice.algorithms.strings;
+package com.popcristianvlad.hackerrank.practice.algorithms.strings.HighestValuePalindrome;
 
 public class HighestValuePalindrome {
 
