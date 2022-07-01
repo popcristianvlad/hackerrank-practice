@@ -1,4 +1,4 @@
-package com.popcristianvlad.hackerrank.practice.algorithms.graph.theory;
+package com.popcristianvlad.hackerrank.practice.algorithms.graph.theory.FloydCityOfBlindingLights;
 
 public class FloydCityOfBlindingLights {
 

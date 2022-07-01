@@ -1,4 +1,4 @@
-package com.popcristianvlad.hackerrank.practice.algorithms.graph.theory;
+package com.popcristianvlad.hackerrank.practice.algorithms.graph.theory.EvenTree;
 
 import java.util.ArrayList;
 import java.util.Arrays;
