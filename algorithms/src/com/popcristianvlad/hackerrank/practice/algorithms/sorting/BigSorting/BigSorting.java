@@ -1,4 +1,4 @@
-package com.popcristianvlad.hackerrank.practice.algorithms.sorting;
+package com.popcristianvlad.hackerrank.practice.algorithms.sorting.BigSorting;
 
 import java.util.Arrays;
 

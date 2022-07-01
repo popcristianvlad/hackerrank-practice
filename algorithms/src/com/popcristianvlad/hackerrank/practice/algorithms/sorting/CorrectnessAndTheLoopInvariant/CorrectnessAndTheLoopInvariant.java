@@ -1,4 +1,4 @@
-package com.popcristianvlad.hackerrank.practice.algorithms.sorting;
+package com.popcristianvlad.hackerrank.practice.algorithms.sorting.CorrectnessAndTheLoopInvariant;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.popcristianvlad.hackerrank.practice.algorithms.sorting;
+package com.popcristianvlad.hackerrank.practice.algorithms.sorting.IntroToTutorialChallenges;
 
 import java.io.*;
 import java.util.*;

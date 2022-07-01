@@ -1,4 +1,4 @@
-package com.popcristianvlad.hackerrank.practice.algorithms.sorting;
+package com.popcristianvlad.hackerrank.practice.algorithms.sorting.InsertionSortPart1;
 
 import java.io.*;
 import java.util.*;
@@ -6,31 +6,20 @@ import java.util.stream.*;
 
 import static java.util.stream.Collectors.toList;
 
-class Result2 {
+class Result {
 
-    public static void insertionSort2(int n, List<Integer> arr) {
-        if (n == 1) {
-            printList(arr);
-            return;
-        }
-
-        for (int i = 1; i < arr.size(); i++) {
-            insertionSort1(arr, i);
-        }
-    }
-
-    private static void insertionSort1(List<Integer> arr, int unsortedStartingIndex) {
-        int storedValue = arr.get(unsortedStartingIndex);
+    public static void insertionSort1(int n, List<Integer> arr) {
+        int storedValue = arr.get(n - 1);
 
         boolean inserted = false;
-        for (int i = unsortedStartingIndex - 1; i >= 0; i--) {
+        for (int i = n - 2; i >= 0; i--) {
             if (arr.get(i) >= storedValue) {
                 arr.set(i + 1, arr.get(i));
             } else {
                 arr.set(i + 1, storedValue);
                 inserted = true;
-                printList(arr);
             }
+            printList(arr);
             if (inserted) {
                 return;
             }
@@ -50,7 +39,7 @@ class Result2 {
     }
 }
 
-public class InsertionSortPart2 {
+public class InsertionSortPart1 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
@@ -61,7 +50,7 @@ public class InsertionSortPart2 {
                 .map(Integer::parseInt)
                 .collect(toList());
 
-        Result2.insertionSort2(n, arr);
+        Result.insertionSort1(n, arr);
 
         bufferedReader.close();
     }
