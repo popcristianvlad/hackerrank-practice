@@ -166,6 +166,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 | Aggregation  |    Easy    |             [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)             |                 [population-density-difference.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/aggregation/population-density-difference/population-density-difference.sql)                  |
 |  Basic Join  |    Easy    |                            [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)                            |                                        [african-cities.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/join/african-cities/african-cities.sql)                                         |
 |  Basic Join  |    Easy    |                         [Population Census](https://www.hackerrank.com/challenges/asian-population/problem)                          |                                     [asian-population.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/join/asian-population/asian-population.sql)                                      |
+|  Basic Join  |    Easy    |      [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)      |       [average-population-of-each-continent.sql](sql/src/com/popcristianvlad/hackerrank/practice/sql/basic/join/average-population-of-each-continent/average-population-of-each-continent.sql)        |
 
 ## Regex
 
