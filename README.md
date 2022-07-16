@@ -130,6 +130,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 | Relational Algebra |    Easy    |                        [Relations - 2](https://www.hackerrank.com/challenges/relations-2/problem)                        |                             [relations-2.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/relational/algebra/relations-2/relations-2.txt)                              |
 |      Indexes       |    Easy    |                   [Index Architecture Types](https://www.hackerrank.com/challenges/indexes-1/problem)                    |                                      [indexes-1.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/indexes/indexes-1/indexes-1.txt)                                      |
 |      Indexes       |    Easy    |                          [Indexes - 2](https://www.hackerrank.com/challenges/indexes-2/problem)                          |                                      [indexes-2.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/indexes/indexes-2/indexes-2.txt)                                      |
+|      Indexes       |    Easy    |                          [Indexes - 3](https://www.hackerrank.com/challenges/indexes-3/problem)                          |                                      [indexes-3.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/indexes/indexes-3/indexes-3.txt)                                      |
 
 ## Sql
 
