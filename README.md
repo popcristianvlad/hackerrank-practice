@@ -133,6 +133,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 |      Indexes       |    Easy    |                          [Indexes - 3](https://www.hackerrank.com/challenges/indexes-3/problem)                          |                                      [indexes-3.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/indexes/indexes-3/indexes-3.txt)                                      |
 |      Indexes       |    Easy    |                          [Indexes - 4](https://www.hackerrank.com/challenges/indexes-4/problem)                          |                                      [indexes-4.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/indexes/indexes-4/indexes-4.txt)                                      |
 |        OLAP        |    Hard    |                    [OLAP Performance](https://www.hackerrank.com/challenges/olap-performance/problem)                    |                             [olap-performance.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/olap/olap-performance/olap-performance.txt)                             |
+|        OLAP        |    Hard    |                  [OLAP Operations - 1](https://www.hackerrank.com/challenges/olap-operations-1/problem)                  |                           [olap-operations-1.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/olap/olap-operations-1/olap-operations-1.txt)                            |
 
 ## Sql
 
