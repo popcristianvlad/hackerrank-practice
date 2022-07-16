@@ -128,6 +128,7 @@ Hackerrank profile: https://www.hackerrank.com/popcristianvlad
 | Relational Algebra |    Easy    |                 [Procedural Language](https://www.hackerrank.com/challenges/procedural-language/problem)                 |                 [procedural-language.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/relational/algebra/procedural-language/procedural-language.txt)                  |
 | Relational Algebra |    Easy    |                        [Relations - 1](https://www.hackerrank.com/challenges/relations-1/problem)                        |                             [relations-1.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/relational/algebra/relations-1/relations-1.txt)                              |
 | Relational Algebra |    Easy    |                        [Relations - 2](https://www.hackerrank.com/challenges/relations-2/problem)                        |                             [relations-2.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/relational/algebra/relations-2/relations-2.txt)                              |
+|      Indexes       |    Easy    |                   [Index Architecture Types](https://www.hackerrank.com/challenges/indexes-1/problem)                    |                                      [indexes-1.txt](databases/src/com/popcristianvlad/hackerrank/practice/databases/indexes/indexes-1/indexes-1.txt)                                      |
 
 ## Sql
 
